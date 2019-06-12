@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eCom05/static/css/main.ccf5a458.chunk.css",
+    "main.js": "/eCom05/static/js/main.2efb2e42.chunk.js",
+    "main.js.map": "/eCom05/static/js/main.2efb2e42.chunk.js.map",
+    "runtime~main.js": "/eCom05/static/js/runtime~main.aa36d3ca.js",
+    "runtime~main.js.map": "/eCom05/static/js/runtime~main.aa36d3ca.js.map",
+    "static/js/2.81d28ec0.chunk.js": "/eCom05/static/js/2.81d28ec0.chunk.js",
+    "static/js/2.81d28ec0.chunk.js.map": "/eCom05/static/js/2.81d28ec0.chunk.js.map",
+    "index.html": "/eCom05/index.html",
+    "precache-manifest.191cb62cef9d602a986de993f769711c.js": "/eCom05/precache-manifest.191cb62cef9d602a986de993f769711c.js",
+    "service-worker.js": "/eCom05/service-worker.js",
+    "static/css/main.ccf5a458.chunk.css.map": "/eCom05/static/css/main.ccf5a458.chunk.css.map"
+  }
+}
